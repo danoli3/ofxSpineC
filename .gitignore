@@ -73,3 +73,15 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+example/config.make
+example/Makefile
+example/openFrameworks-Info.plist
+example/Project.xcconfig
+example/emptyExample.xcodeproj/project.pbxproj
+example/emptyExample.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+example/emptyExample.xcodeproj/project.xcworkspace/xcshareddata/emptyExample.xcscmblueprint
+example/emptyExample.xcodeproj/project.xcworkspace/xcuserdata/danielrosser.xcuserdatad/UserInterfaceState.xcuserstate
+example/emptyExample.xcodeproj/xcshareddata/xcschemes/emptyExample AppStore.xcscheme
+example/emptyExample.xcodeproj/xcshareddata/xcschemes/emptyExample Debug.xcscheme
+example/emptyExample.xcodeproj/xcshareddata/xcschemes/emptyExample Release.xcscheme
+example/emptyExample.xcodeproj/xcuserdata/danielrosser.xcuserdatad/xcschemes/xcschememanagement.plist
